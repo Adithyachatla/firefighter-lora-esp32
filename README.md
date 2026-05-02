@@ -46,7 +46,7 @@
 | D. Chandana | 23054-ES-060 |
 | P. Shiva Kumar | 23054-ES-062 |
 
-**Guide:** LINGASWAMY SIR, Lecturer in ECE  
+**Guide:** LINGASWAMY SIR, Lecturer in ESE 
 **Institute:** Govt. Institute of Electronics, East Marredpally, Secunderabad-500026  
 **Year:** 2025-2026 | Diploma in Embedded Systems Engineering
 
