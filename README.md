@@ -1,4 +1,4 @@
-# 🔥 Smart Emergency Communication & Safety Network for Firefighters
+#  Smart Emergency Communication & Safety Network for Firefighters
 
 > **ESP32 + LoRa Ra-02 SX1276 @ 433 MHz** — Peer-to-peer emergency communication with real-time heart rate monitoring and a live IoT web dashboard. No mobile network. No internet. No infrastructure.
 
