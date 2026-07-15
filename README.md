@@ -4,7 +4,7 @@
 
 ---
 
-## 📸 Project Preview
+##  Project Preview
 
 ```
 ╔══════════════════════════════════════╗
@@ -22,7 +22,7 @@
 
 ---
 
-## 🎯 What This Project Does
+##  What This Project Does
 
 | Feature | Details |
 |---|---|
@@ -52,7 +52,7 @@
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 firefighter-lora-esp32/
@@ -82,7 +82,7 @@ firefighter-lora-esp32/
 
 ---
 
-## 🛒 Hardware Required
+##  Hardware Required
 
 ### Per Firefighter Node (×2)
 
