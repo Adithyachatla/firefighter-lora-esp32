@@ -40,11 +40,12 @@
 
 | Name | Roll No |
 |---|---|
-| Joy Pastam | 23054-ES-002 |
 | Adithya Chatla | 23054-ES-018 |
+| Joy Pastam | 23054-ES-002 |
+| P. Shiva Kumar | 23054-ES-062 |
 | K. Akhila | 23054-ES-043 |
 | D. Chandana | 23054-ES-060 |
-| P. Shiva Kumar | 23054-ES-062 |
+
 
 **Guide:** LINGASWAMY SIR, Lecturer in ESE 
 **Institute:** Govt. Institute of Electronics, East Marredpally, Secunderabad-500026  
