@@ -47,7 +47,7 @@
 | D. Chandana | 23054-ES-060 |
 
 
-**Guide:** LINGASWAMY SIR, Lecturer in ESE 
+**Guide:** LINGASWAMY SIR, Lecturer in ESE, 
 **Institute:** Govt. Institute of Electronics, East Marredpally, Secunderabad-500026  
 **Year:** 2025-2026 | Diploma in Embedded Systems Engineering
 
@@ -98,7 +98,7 @@ firefighter-lora-esp32/
 | Active Buzzer | 3.3V–5V DC, built-in oscillator | Amazon India |
 | Red LED + 220Ω resistor | 5mm LED | Local store |
 | LiPo Battery | 1000mAh, 3.7V | Amazon India |
-| TP4056 Charger | USB charging + protection | Robu.in |
+| TP4056 Charger | USB charging + protection |
 
 ### Central Server (×1)
 
@@ -109,7 +109,7 @@ firefighter-lora-esp32/
 | Active Buzzer | Alert at command center |
 | USB Power Supply | 5V via USB |
 
-> **⚠️ IMPORTANT:** Use **433 MHz** Ra-02 modules only. The 868 MHz and 915 MHz variants are NOT legal for use in India and will NOT communicate with these firmware files.
+> **⚠️ IMPORTANT:** Use **433 MHz** Ra-02 modules only. The 868 MHz and 915 MHz variants are NOT legal for use in India and will NOT communicate with these firmware files!.
 
 ---
 
@@ -282,8 +282,8 @@ This project is open source under the **MIT License** — free to use, modify, a
 ## ⭐ Give it a Star!
 
 If this project helped you, please ⭐ star the repository on GitHub!  
-It helps other students and developers find this project.
+It helps other students and developers find this project!.
 
 ---
 
-*Built with ❤️ by Team Embedded Systems 2025-2026 | Govt. Institute of Electronics, Secunderabad*
+*Built with ❤️ by the Team Embedded Systems 2025-2026 | Govt. Institute of Electronics, Secunderabad*
